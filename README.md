@@ -210,7 +210,7 @@ s
 
 ```bash
 # 1. Clone repository
-git clone https://github.com/codev-aryan/redis-server-implementation.git
+git clone https://github.com/mehta-aryan/redis-server-implementation.git
 cd redis-server-implementation
 
 # 2. Build
@@ -382,8 +382,8 @@ Potential extensions demonstrating additional expertise:
 ## 📞 Contact & Links
 
 **Developer**: Aryan Mehta  
-**Repository**: [github.com/codev-aryan/redis-server-implementation](https://github.com/codev-aryan/redis-server-implementation)  
-**LinkedIn**: [Connect with me](https://linkedin.com/in/codev-aryan)  
+**Repository**: [github.com/mehta-aryan/redis-server-implementation](https://github.com/mehta-aryan/redis-server-implementation)  
+**LinkedIn**: [Connect with me](https://linkedin.com/in/mehta-aryan)  
 
 ---
 
@@ -399,6 +399,6 @@ MIT License - feel free to use this code for learning or as reference.
 
 ⭐ Star this repo if you find it impressive! ⭐
 
-[Report Bug](https://github.com/codev-aryan/redis-server-implementation/issues) • [Request Feature](https://github.com/codev-aryan/redis-server-implementation/issues) • [View Documentation](https://github.com/codev-aryan/redis-server-implementation/wiki)
+[Report Bug](https://github.com/mehta-aryan/redis-server-implementation/issues) • [Request Feature](https://github.com/mehta-aryan/redis-server-implementation/issues) • [View Documentation](https://github.com/mehta-aryan/redis-server-implementation/wiki)
 
 </div>
